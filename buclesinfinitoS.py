@@ -1,0 +1,16 @@
+import turtle
+ventana = turtle.Screen()
+t= turtle.Turtle()
+t.shape("turtle")
+t.color("pink")
+t.width(10)
+t.fd(200)
+t.lt(90)
+t.fd(200)
+t.lt(90)
+t.fd(200)
+t.lt(90)
+t.fd(100)
+t.fd(90)
+
+turtle.done()
